@@ -1,0 +1,2 @@
+# Sparkdrift GP – high-quality audio pack (kart-racer-hq-audio-2)
+Lossless FLAC (48 kHz / 24-bit stems and masters; voices 24 kHz) for https://jamesgot35-collab.github.io/kart-racer/ — original synthesis, see CREDITS in the main repo. Loaded on demand by the game when Settings → Quality → High. Each `music/<piece>/master.flac` is the full mastered mix (soundtrack deliverable; the game itself uses the six stems).
